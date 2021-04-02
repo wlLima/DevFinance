@@ -159,6 +159,7 @@ const Form = {
             Form.validateFields()
             const transaction = Form.formatValues()
             Form.saveTransaction(transaction)
+            Form.clearFields()
             Modal.close()
 
         } catch (error) {

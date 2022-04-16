@@ -2,6 +2,13 @@
 
 Projeto feito para melhorar minhas habilidades com javascript no ano de 2021
 
+#### O que foi aprendido:
+
+ - Conceito de "linguagem funcional"
+ - Utilização do "LocalStorage"
+ - Alguns conceitos e dicas de "Css"
+ - Utilização de Modais
+
 ## Screenshots
 ![Captura de tela de 2022-04-16 16-59-51](https://user-images.githubusercontent.com/59426281/163689838-77c90547-ab0b-48c9-8af7-4b4d78d34de6.png)
 
